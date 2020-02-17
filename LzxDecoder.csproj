@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <PackageId>LzxDecoder</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Stuart Caie, Ali Scissons</Authors>
+    <PackageLicenseExpression>LGPL-2.1-only OR MS-PL</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/spacechase0/LzxDecoder</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
